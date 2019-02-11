@@ -4,6 +4,6 @@
 2. [Leaf 002: ]
 
 ## Leaf 001
-![Front](images/l1_guava_1.jpg=200x100) ![Back](images/l1_guava_2.jpg=200x100)
+![Front](images/l1_guava_1.jpg =200x100) ![Back](images/l1_guava_2.jpg =200x100)
 
 
