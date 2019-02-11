@@ -18,7 +18,7 @@ The leaves can be brewed to make tea, which releases vitamin C and flavonoids li
 * Gastric Cancer 
 * etc.
 
-![ref](https://www.medicaldaily.com/6-health-benefits-guava-leaves-treating-diarrhea-cancer-353666)
+[ref](https://www.medicaldaily.com/6-health-benefits-guava-leaves-treating-diarrhea-cancer-353666)
 
 
 
