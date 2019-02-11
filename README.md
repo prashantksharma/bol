@@ -5,8 +5,8 @@
 
 ## Leaf 001
 
-<img src="images/l1_guava_1.jpg" width="400"> <img src="images/l1_guava_3.jpg" width="400"> 
-<img src="images/l1_guava_3.jpg" width="400"> <img src="images/l1_guava_1.jpg" width="400">
+<img src="images/l1_guava_1.jpg" width="400"> <img src="images/l1_guava_2.jpg" width="400"> 
+<img src="images/l1_guava_3.jpg" width="400"> <img src="images/l1_guava_4.jpg" width="400">
 
 
 
