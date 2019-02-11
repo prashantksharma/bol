@@ -8,7 +8,7 @@
 <img src="images/l1_guava_1.jpg" width="400"> <img src="images/l1_guava_2.jpg" width="400"> 
 <img src="images/l1_guava_3.jpg" width="400"> <img src="images/l1_guava_4.jpg" width="400">
 
-The leaves of guava tree are full of antioxidants, anti-imflammatory agents, antibacterials and even tannins that have significant health benefits, from treating stomach troubles to chronic diseases like cancer.
+The leaves of guava tree are full of antioxidants, anti-inflammatory agents, antibacterials and even tannins that have significant health benefits, from treating stomach troubles to chronic diseases like cancer.
 The leaves can be brewed to make tea, which releases vitamin C and flavonoids like quercetin. Studies show qualitites of this superfruit's leaves, as they help in:
 
 * Diarrhea
