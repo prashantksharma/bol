@@ -4,6 +4,9 @@
 2. [Leaf 002: ]
 
 ## Leaf 001
+
+<img src="images/l1_guava_1.jpg" width="200">
+
 ![Front](images/l1_guava_1.jpg =200x100) ![Back](images/l1_guava_2.jpg =200x100)
 
 
